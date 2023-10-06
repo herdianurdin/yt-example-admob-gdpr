@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="label_show_ads">Show Ads</string>
+</resources>
